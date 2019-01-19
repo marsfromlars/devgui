@@ -1,0 +1,26 @@
+{
+  "name": "devgui",
+  "version": "0.0.1",
+  "description": "Gui for frequent development tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsfromlars/devgui.git"
+  },
+  "author": "marsfromlars at github",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marsfromlars/devgui/issues"
+  },
+  "homepage": "https://github.com/marsfromlars/devgui#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "shelljs": "^0.8.3",
+    "sleep": "^5.2.4"
+  }
+}
